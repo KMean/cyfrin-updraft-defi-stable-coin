@@ -160,10 +160,4 @@ To run code formatting:
 forge fmt
 ```
 
-# Slither
-
-```
-slither :; slither . --config-file slither.config.json
-```
-
 
